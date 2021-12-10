@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "SOME": "thing",
+    "HELLO": "world"
+  },
+  "textKeys": {
+    "TITLE": {
+      "text": "Your account is ready!",
+      "desc": "Shown immediately after the user creates a new account",
+      ".locales": [
+        "en-GB",
+        "sv-SE",
+        "fi-FI"
+      ]
+    }
+  }
