@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "SOME": "thing",
+    "HELLO": "world"
+  },
+  "textKeys": {
+    "FOOTER": {
+      "text": "Copyright FooBar",
+      "desc": "Copyright notice shown at the bottom of every page",
+      ".locales": [
+        "en-GB",
+        "sv-SE",
+        "fi-FI",
+        "en-US",
+        "es-US"
+      ]
+    }
+  }
+}
